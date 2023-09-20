@@ -1,3 +1,7 @@
+#########################################
+####### Copyright Kylian-Project ########
+#########################################
+
 import tkdraw.basic as graph
 import Labyrinthe
 
@@ -223,3 +227,7 @@ laby = Labyrinthe.creer(105,105,3)
 
 # taille carré du labyrinthe
 dessine_labyrinthe(laby, 5)
+
+#########################################
+####### Copyright Kylian-Project ########
+#########################################
